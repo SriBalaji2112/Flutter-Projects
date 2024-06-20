@@ -39,4 +39,20 @@ Learing Widgets Samples
   <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/learning/learn_5">
     <img src="../images/learning/learn_5_2.png"/>
   </a>
+  <br>
+  Learn 6<br>
+  <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/learning/learn_6">
+    <img src="../images/learning/learn_6.png"/>
+  </a>
+  <br>
+  Learn 7<br>
+  <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/learning/learn_7">
+    <img src="../images/learning/learn_7_1.png"/>
+  </a>
+  <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/learning/learn_7">
+    <img src="../images/learning/learn_7_2.png"/>
+  </a>
+  <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/learning/learn_7">
+    <img src="../images/learning/learn_7_3.png"/>
+  </a>
 </div>

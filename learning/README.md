@@ -21,7 +21,10 @@ Learing Widgets Samples
   <br>
   Learn 3<br>
   <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/learning/learn_3">
-    <img src="../images/learning/learn_3.png"/>
+    <img src="../images/learning/learn_3_1.png"/>
+  </a>
+  <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/learning/learn_3">
+    <img src="../images/learning/learn_3_2.png"/>
   </a>
   <br>
   Learn 4<br>
@@ -31,6 +34,9 @@ Learing Widgets Samples
   <br>
   Learn 5<br>
   <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/learning/learn_5">
-    <img src="../images/learning/learn_5.png"/>
+    <img src="../images/learning/learn_5_1.png"/>
+  </a>
+  <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/learning/learn_5">
+    <img src="../images/learning/learn_5_2.png"/>
   </a>
 </div>

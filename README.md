@@ -1,6 +1,7 @@
-# Flutter-Projects
-Learn Flutter application development...
+<img src='./images/flutter.png' height:80px>
 
-## Widgets Learned
-Text, Container, Row, Column, FlatButton (TextButton), RaiseButton(ElevatedButton), OutLinedButton, FloatingActionButton, Images, ButtonBar, Icons
-<img src='./images/example1.png' height:100px>
+# Flutter Projects
+... <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/projects">about project</a>
+
+# Flutter Learned
+... <a href="https://github.com/SriBalaji2112/Flutter-Projects/tree/main/learning">about learning</a>
